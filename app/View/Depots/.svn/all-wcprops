@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ecode/!svn/ver/6600/sites/ecode/travel/View/Depots
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ecode/!svn/ver/6409/sites/ecode/travel/View/Depots/admin_index.ctp
+END
+admin_statis.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ecode/!svn/ver/6491/sites/ecode/travel/View/Depots/admin_statis.ctp
+END
+data_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ecode/!svn/ver/6562/sites/ecode/travel/View/Depots/data_index.ctp
+END
+admin_seller_take.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ecode/!svn/ver/6600/sites/ecode/travel/View/Depots/admin_seller_take.ctp
+END
+admin_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ecode/!svn/ver/6491/sites/ecode/travel/View/Depots/admin_view.ctp
+END
+admin_back_depot.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ecode/!svn/ver/6600/sites/ecode/travel/View/Depots/admin_back_depot.ctp
+END
+agent_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ecode/!svn/ver/6562/sites/ecode/travel/View/Depots/agent_index.ctp
+END

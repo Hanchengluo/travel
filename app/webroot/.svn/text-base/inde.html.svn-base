@@ -1,0 +1,152 @@
+<!DOCTYPE HTML>
+<!--[if IE 6]><html class="ie6 lte9 lte7 no-css3" lang="zh-cn"><![endif]-->
+<!--[if IE 8]><html class="ie8 lte9 no-css3" lang="zh-cn"><![endif]-->
+<!--[if IE 9]><html class="ie9 lte9 no-css3" lang="zh-cn"><![endif]-->
+<!--[if IE 7]><html class="ie7 lte9 lte7 no-css3" lang="zh-cn"><![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8) | !(IE 9)  ]><!--><html lang="zh-cn"><!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<title>无标题文档</title>
+<link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="./css/main.css">
+</head>
+<body>
+	<div id="header">
+		<div class="row-fluid top">
+			<div class="logo">
+				<h1>电子售票系统</h1>
+				<ul class="drop-menu">
+					<li class="title"><a>所在售票点</a></li>
+					<li><a href="">票务中心</a></li>
+					<li><a href="">管理中心</a></li>
+					<li><a href="">数据中心</a></li>
+					<li><a href="">权限管理</a></li>
+					<li class="dived"><hr></li>
+					<li><a href="">注销</a></li>
+					<li><a href="">退出打印</a></li>
+
+				</ul>
+			</div>
+			<div class="nav">
+				<ul class="main-menu">
+					<li class="active"><a href="">票务中心</a></li>
+					<li><a href="">管理中心</a></li>
+					<li><a href="">数据中心</a></li>
+					<li><a href="">权限管理</a></li>
+				</ul>
+			</div>
+			<div class="user-tool">
+			 <span>
+				<i class="icon icon-user"></i>
+				罗易成
+			 </span>	
+			<span>|</span>
+			 <span>
+				<i class="icon icon-logout"></i>
+				<a href="/users/logout">注销(交班)</a>
+			 </span>				
+			</div>
+		</div>
+		<div class="panel">
+			<div class="sub-menu">
+				<ul>
+					<li class="btn-bg btn-bg-sell"><a href="#">售票</a></li>
+					<li class="btn-bg btn-bg-refund"><a href="#">退票</a></li>
+					<li class="btn-bg btn-bg-year"><a href="#">年卡办理</a></li>
+					<li class="btn-bg btn-bg-chek"><a href="#">验票查询</a></li>
+				</ul>
+			</div>
+			<div class="status">
+				<p>已售票总数：<span class="num">108</span> 位   应收金额：<span class="num">108</span> 元   实际收入： <span class="num">108</span> 元
+				</p> 
+				<p><a href="">清空</a></p>
+			</div>
+		</div>
+	</div>
+	<div id="main">
+		<div  class="left">
+		  <h2>售票点：东门售票点A</h2>
+		  <div class="block-content">
+		 		<div class="btn-tool">
+		 			<a href="#"><img src="./img/btn_print.jpg"></a>
+		 			<a href="#"><img src="./img/btn_actived.jpg"></a>
+		 		</div>
+		  </div>
+		 	<h3 class="column-titl">打印出票</h3>
+			<div class="form">
+				<form class="form">
+				  <div class="control-group">
+				    <label class="control-label" for="inputEmail">Email</label>
+				    <div class="controls">
+				      <input type="text" id="inputEmail" placeholder="Email">
+				    </div>
+				  </div>
+				  <div class="control-group">
+				    <label class="control-label" for="inputPassword">Password</label>
+				    <div class="controls">
+				      <input type="password" id="inputPassword" placeholder="Password">
+				    </div>
+				  </div>
+				  <div class="control-group">
+				    <div class="controls">
+				      <label class="checkbox">
+				        <input type="checkbox"> Remember me
+				      </label>
+				      <button type="submit" class="btn">Sign in</button>
+				    </div>
+				  </div>
+				</form>
+			</div>
+		</div>
+		<!-- 标题右侧有更多等文字信息 -->
+		<div class="right">
+		  <div class="head-title">
+		    <h2>出票记录</h2>
+		    <a href="#" class="more"></a>
+		  </div>
+		  <div class="block-content">
+			<table class="table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>First Name</th>
+                  <th>Last Name</th>
+                  <th>Username</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>Mark</td>
+                  <td>Otto</td>
+                  <td>@mdo</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>Jacob</td>
+                  <td>Thornton</td>
+                  <td>@fat</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>Larry</td>
+                  <td>the Bird</td>
+                  <td>@twitter</td>
+                </tr>
+              </tbody>
+
+            </table>
+             <div class="pages">
+             	<a href="">下一页</a>
+             	<a href="">上一页</a>
+             	<span>每页16条，共0条记录</span>
+             </div>
+		  </div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+	<div id="footer">
+		<p>时间：2013年7月14日</p>
+	</div>
+</body>
+</html>

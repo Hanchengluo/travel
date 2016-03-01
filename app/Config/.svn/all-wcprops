@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ecode/!svn/ver/6768/sites/ecode/travel/Config
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ecode/!svn/ver/6096/sites/ecode/travel/Config/routes.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ecode/!svn/ver/6367/sites/ecode/travel/Config/database.php
+END
+database.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ecode/!svn/ver/6017/sites/ecode/travel/Config/database.php.default
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ecode/!svn/ver/6147/sites/ecode/travel/Config/core.php
+END
+email.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ecode/!svn/ver/6017/sites/ecode/travel/Config/email.php.default
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ecode/!svn/ver/6017/sites/ecode/travel/Config/acl.ini.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ecode/!svn/ver/6768/sites/ecode/travel/Config/bootstrap.php
+END
